@@ -1,0 +1,12 @@
+/* .app{
+    @apply bg-gray-100
+} */
+.app main{
+    @apply flex
+}
+.app main .sidebar{
+    @apply w-2/12
+}
+.app main .mainbar{
+    @apply w-10/12 h-screen bg-gray-50
+}
